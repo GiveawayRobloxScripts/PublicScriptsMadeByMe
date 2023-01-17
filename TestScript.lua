@@ -66,6 +66,3 @@ game:GetService("ReplicatedStorage").Remotes.Input:FireServer(ohString1, ohTable
 
 wait(15)
 
-
-
-end
